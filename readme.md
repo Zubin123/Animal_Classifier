@@ -1,1 +1,1 @@
-This is an animal classification project
+This ia an Animal classification project

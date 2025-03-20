@@ -1,0 +1,17 @@
+# Ignore the virtual environment
+aenv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore dataset or large files
+dataset/*
+*.h5
+*.ckpt
+preprocessed_data/*.npy
+
+
+# Ignore logs and temp files
+logs/
+*.log
