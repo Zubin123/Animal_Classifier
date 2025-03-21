@@ -30,7 +30,7 @@ This project is an image classification web application that predicts the animal
    ```
 4. Run the application:
    ```sh
-   python src/app.py
+   python app.py
    ```
 
 ## Usage
