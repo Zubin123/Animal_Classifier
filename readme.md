@@ -58,10 +58,10 @@ Animal_Classifier/
 │── src/               # Source code
 │   ├── train.py       # Model training script
 │   ├── evaluate.py    # Model evaluation script
-│   ├── app.py         # Flask web application
 │── templates/         # HTML templates for Flask
 │── static/            # CSS, JavaScript, images
-│── uploads/           # Uploaded images
+|   │── uploads/       # Uploaded images
+├── app.py             # Flask web application
 │── README.md          # Project documentation
 │── requirements.txt   # Python dependencies
 ```
