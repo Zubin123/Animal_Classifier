@@ -6,11 +6,9 @@ aenv/
 __pycache__/
 
 # Ignore dataset or large files
-dataset/*
+dataset/
 *.h5
-*.ckpt
-preprocessed_data/*.npy
-
+*.ckpt\
 
 # Ignore logs and temp files
 logs/
